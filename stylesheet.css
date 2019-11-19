@@ -1,0 +1,16 @@
+body{
+    margin-top: auto;
+    margin-left: auto;
+}
+img {
+    height: 92px;
+    width: 272px;
+}
+
+.center {
+    display: block;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
