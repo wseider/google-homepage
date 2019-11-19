@@ -14,3 +14,27 @@ img {
     margin-right: auto;
 }
   
+input.center {
+    margin-top: 10px;
+    
+}
+
+input{
+    width: 582px;
+    height: 44px;
+    border-radius: 25px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 16px;
+    line-height: 34px;
+    font-family: arial, sans-serif;
+}
+
+span {
+    color: #9AA0A6;
+}
